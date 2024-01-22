@@ -5,7 +5,7 @@
 #### Estruturas de repetição (for, while).
 #### Conceitos de Programação:
 
-#### Funções e escopo.
+### Funções e escopo.
 #### Arrays e manipulação de arrays.
 #### Trabalhando com strings.
 #### Programação Orientada a Objetos (OOP):
@@ -18,5 +18,5 @@
 #### Manipulação de diretórios.
 #### Trabalhando com Bancos de Dados:
 
-#### Conexão com bancos de dados.
+### Conexão com bancos de dados.
 #### Consultas SQL básicas.
